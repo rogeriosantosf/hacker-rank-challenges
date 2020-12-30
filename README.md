@@ -1,2 +1,3 @@
-# hacker-rank-profile
-Codes and certificates obtained in Hacker Rank
+# Hackerrank Profile
+
+link: https://www.hackerrank.com/rsfernandes
