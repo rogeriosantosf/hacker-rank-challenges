@@ -12,5 +12,8 @@
 
 if __name__ == '__main__':
     count, numbers = input(), input().split()
-    print("True" if any(map(lambda value: value == value[::-1], numbers)) and all(
-        map(lambda value: int(value) > 0, numbers)) else "False")
+    def is_palindromic(value): return value == value[::-1]
+    def is_positive_int(value): return int(value) > 0
+    msg = "True" if any(map(is_palindromic, numbers)) and all(
+        map(is_positive_int, numbers)) else "False"
+    print(msg)
