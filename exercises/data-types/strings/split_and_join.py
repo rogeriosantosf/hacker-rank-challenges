@@ -3,6 +3,6 @@ def split_and_join(line):
 
 
 if __name__ == '__main__':
-    line = raw_input()
+    line = input()
     result = split_and_join(line)
     print(result)
