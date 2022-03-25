@@ -1,0 +1,23 @@
+{
+  "name": "hacker-rank-profile",
+  "version": "1.0.0",
+  "description": "link: https://www.hackerrank.com/rsfernandes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogersanbr/hacker-rank-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogersanbr/hacker-rank-profile/issues"
+  },
+  "homepage": "https://github.com/rogersanbr/hacker-rank-profile#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

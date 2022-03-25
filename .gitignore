@@ -133,3 +133,6 @@ dmypy.json
 
 # Jupyter
 *.ipynb
+
+# node
+node_modules/

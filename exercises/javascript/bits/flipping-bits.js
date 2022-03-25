@@ -11,3 +11,5 @@ function flippingBits(n) {
    */
   return ~n >>> 0;
 }
+
+module.exports = flippingBits;
